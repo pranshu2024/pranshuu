@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253365322596",
+    "project_id": "prophunter-1fbc0",
+    "storage_bucket": "prophunter-1fbc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253365322596:android:6166937abb8f348689f071",
+        "android_client_info": {
+          "package_name": "com.androginex.prophunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKY0Z_W3BkZWOEM63n1kGQ968X6iFRAkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
